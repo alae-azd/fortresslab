@@ -1,0 +1,12 @@
+# Disques virtuels
+vms/*.qcow2
+vms/*.img
+
+# ISOs
+iso/*.iso
+
+# Fichiers temporaires
+*.tmp
+*.log
+__pycache__/
+*.pyc
